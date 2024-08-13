@@ -2,7 +2,7 @@
 
 A software for membrane analysis and subtraction in cryo-EM.
 
-![overview](./wiki/docs/assets/images/0-1.png)
+![overview](https://memxterminator.github.io/wiki/assets/images/0-1.png)
 
 ## Overview
 
@@ -22,11 +22,11 @@ This software utilizes 2D averages and their corresponding alignment information
 
 ## Wiki
 
-This software has a very accessible [wiki](https://zhenhuanglab.github.io/MemXTerminator/) for better tutorial organization.
+This software has a very accessible [wiki](https://memxterminator.github.io/wiki/) for better tutorial organization.
 
 ## Installation
 
-For specific installation methods, please refer to the [wiki installation section](https://zhenhuanglab.github.io/MemXTerminator/tutorials/installation/).
+For specific installation methods, please refer to the [wiki installation section](https://memxterminator.github.io/wiki/tutorials/installation/).
 
 ## Usage
 
@@ -38,7 +38,7 @@ MemXTerminator gui &
 
 ```
 
-For detailed usage tutorials, please refer to the [wiki usage section](https://zhenhuanglab.github.io/MemXTerminator/tutorials/usage/).
+For detailed usage tutorials, please refer to the [wiki usage section](https://memxterminator.github.io/wiki/tutorials/usage/).
 
 ## License
 
